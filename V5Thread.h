@@ -1,9 +1,8 @@
 //
-//  Half2.h
 //  V5 Engine
 //
 //  Created by mofed arafat on 6/4/15.
-//  Copyright (c) 2015 org. All rights reserved.
+//  Copyright (c) 2016 org. All rights reserved.
 //
 
 
