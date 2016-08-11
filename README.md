@@ -15,7 +15,7 @@ you can put this implementation inside any function without implementing structs
     
     //mutex to bound the sum (as shared buffer)
     V5Mutex mutex;
-    int32_t sum;
+    int32_t sum = 0;
     
     //parameters we need to pass to every worker
     //you can put this inside any function
